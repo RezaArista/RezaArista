@@ -6,7 +6,7 @@ Saya adalah seorang pengembang yang tertarik pada bidang IoT, pemrograman mikrok
 
 ## 🚀 Tentang Saya
 - 🌱 Saat ini saya sedang mendalami penggunaan **ESP32** dan **ESP8266**.
-- 💻 Saya juga menggunakan **PlatformIO** di **Visual Studio Code** sebagai IDE utama untuk pengembangan mikrokontroler.
+- 💻 Saya juga menggunakan **Arduino IDE** di **Visual Studio Code** sebagai IDE utama untuk pengembangan mikrokontroler.
 - 💡 Saya tertarik pada proyek-proyek yang melibatkan **Flask**, **Python**, dan **komunikasi IoT**.
 - 🌐 Seringkali, saya menggunakan sensor seperti **DHT11**, **DHT22**, dan berbagai modul lainnya.
 
