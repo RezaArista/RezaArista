@@ -5,16 +5,16 @@ Saya adalah seorang pengembang yang tertarik pada bidang IoT, pemrograman mikrok
 ---
 
 ## 🚀 Tentang Saya
-- 🌱 Saat ini saya sedang mendalami penggunaan **ESP32** dan **ESP8266**.
-- 💻 Saya juga menggunakan **Arduino IDE** di **Visual Studio Code** sebagai IDE utama untuk pengembangan mikrokontroler.
+- 🌱 Saat ini saya sedang mendalami penggunaan **ESP32** dan **ESP8266** serta saya juga menganalisis beberapa alat **INDUSTRI** yang dapat diterapkan untuk sistem automasi dengan komunikasi menggunakan **SERIAL**, **RS485** ,dan **RS232**.
+- 💻 Saya juga menggunakan **Arduino IDE** di **Visual Studio Code** sebagai IDE utama untuk pengembangan mikrokontroler dan MQTT untuk penerimaan data yang dikirim.  
 - 💡 Saya tertarik pada proyek-proyek yang melibatkan **Web Programming**, **Python**, dan **komunikasi IoT**.
-- 🌐 Seringkali, saya menggunakan sensor seperti **DHT11**, **DHT22**, dan berbagai modul lainnya.
+- 🌐 Seringkali, saya menggunakan sensor seperti **DHT11**, **DHT22**, **RS232 to TTL**,**RS485 to TTL**,**INFRARED SENSOR**, **FOTOSENSOR**, **SENSOR JARAK** dan berbagai modul lainnya.
 
 ## ⚙️ Teknologi dan Alat yang Saya Gunakan
 - **Bahasa Pemrograman**: Python, C++, JavaScript, PHP, JAVA
-- **Framework**: Flask, CodeIgniter, laravel
-- **Perangkat Keras**: ESP32, ESP8266, Sensor DHT, LCD
-- **Tools**: PlatformIO, Visual Studio Code, Git, Ardruino IDE
+- **Framework**: Flask, CodeIgniter, Native Programming
+- **Perangkat Keras**: **ESP32**, **ESP8266**, **DHT11**, **DHT22**, **RS232 to TTL**,**RS485 to TTL**,**INFRARED SENSOR**, **FOTOSENSOR**, **SENSOR JARAK** 
+- **Tools**: PlatformIO, Visual Studio Code, Git, Ardruino IDE, Putty, MQTT Explorer
 
 ---
 
