@@ -3,9 +3,7 @@
 
 # Halo, Selamat Datang di Profil GitHub Saya! 👋
 
-╔═╗╦╔═╗╔╦╗  [REZAAPP]
-╚═╗║║ ║ ║║  Developer | Builder | Dreamer
-╚═╝╩╚═╝═╩╝  github.com/yourusername
+⋆｡ﾟ☁︎｡⋆｡  ⛧ ｡⋆˚☽˚｡⋆  ⋆｡ﾟ☁︎｡⋆｡  ⛧ ｡⋆˚☽˚｡⋆  ⋆｡ﾟ☁︎｡⋆｡  ⛧ ｡⋆˚☽˚｡⋆  
 
 
 Saya adalah seorang pengembang yang tertarik pada bidang IoT, pemrograman mikrokontroler, dan pengembangan aplikasi web. Saya senang bekerja dengan berbagai teknologi dan terus belajar untuk meningkatkan keterampilan saya.
