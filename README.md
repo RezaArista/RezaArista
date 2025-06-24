@@ -1,4 +1,12 @@
+╔╦╗ ⋆ ╔╗╔╗ ⋆ ╠╣╠╣ ⋆ ◎ ◎
+╚╩╝     H    A     L    L    O
+
 # Halo, Selamat Datang di Profil GitHub Saya! 👋
+
+╔═╗╦╔═╗╔╦╗  [REZAAPP]
+╚═╗║║ ║ ║║  Developer | Builder | Dreamer
+╚═╝╩╚═╝═╩╝  github.com/yourusername
+
 
 Saya adalah seorang pengembang yang tertarik pada bidang IoT, pemrograman mikrokontroler, dan pengembangan aplikasi web. Saya senang bekerja dengan berbagai teknologi dan terus belajar untuk meningkatkan keterampilan saya.
 
@@ -23,6 +31,6 @@ Saya adalah seorang pengembang yang tertarik pada bidang IoT, pemrograman mikrok
 - Email: rezaarista777@gmail.com
 
 ---
-)
+
 
 Terima kasih sudah mengunjungi profil saya! 😊
